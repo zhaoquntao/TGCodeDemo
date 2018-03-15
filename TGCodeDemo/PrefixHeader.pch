@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  TGCodeDemo
+//
+//  Created by 赵群涛 on 2018/1/16.
+//  Copyright © 2018年 QR. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define DebugMode YES //是否开发模式-上线需修改
+
+#define kUserDefaults       [NSUserDefaults standardUserDefaults]
+
+#endif /* PrefixHeader_pch */
